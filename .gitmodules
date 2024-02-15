@@ -1,3 +1,6 @@
 [submodule "backend-devops"]
 	path = backend-devops
 	url = git@github.com:marianagrana2/fullstackTareasProjectBackend.git
+[submodule "frontend-devops"]
+	path = frontend-devops
+	url = git@github.com:marianagrana2/fullstackTareasProjectFrontend.git
